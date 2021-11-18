@@ -189,7 +189,7 @@
 // entity 1
 {
 "classname" "info_player_start"
-"origin" "-192 -432 44"
+"origin" "-672 -104 44"
 "angle" "90"
 }
 // entity 2
@@ -304,12 +304,6 @@
 }
 // entity 10
 {
-"classname" "monster_zombie"
-"origin" "-104 16 12"
-"angle" "270"
-}
-// entity 11
-{
-"classname" "misc_explobox2"
-"origin" "-168 -40 -12"
+"classname" "ambient_drip"
+"origin" "-680 40 56"
 }
