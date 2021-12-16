@@ -6403,8 +6403,7 @@
 "classname" "trigger_relay"
 "origin" "-1724 296 -168"
 "targetname" "key_trigger"
-"target" "stage_lights"
-"delay" "10"
+"target" "bathroom_door"
 "_tb_layer" "3"
 }
 // entity 138
@@ -30082,7 +30081,7 @@
 "classname" "light"
 "origin" "-784 460 -16"
 "target" "stage_light_2"
-"targetname" "stage_lights"
+"targetname" "stage_door"
 "spawnflags" "1"
 "light" "500"
 "wait" "0.25"
@@ -30093,7 +30092,7 @@
 "classname" "light"
 "origin" "-784 772 -16"
 "target" "stage_light_1"
-"targetname" "stage_lights"
+"targetname" "stage_door"
 "spawnflags" "1"
 "light" "500"
 "wait" "0.25"
