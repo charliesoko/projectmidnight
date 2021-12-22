@@ -33688,6 +33688,7 @@
 "classname" "monster_army"
 "origin" "-2092 -48 -520"
 "angle" "270"
+"target" "final_counter"
 "_tb_layer" "281"
 }
 // entity 667
@@ -33695,6 +33696,7 @@
 "classname" "monster_army"
 "origin" "-1784 -1000 -520"
 "angle" "90"
+"target" "final_counter"
 "_tb_layer" "281"
 }
 // entity 668
