@@ -6249,7 +6249,7 @@
 // entity 108
 {
 "classname" "info_teleport_destination"
-"origin" "-1936 -516 -508"
+"origin" "-1496 -516 -508"
 "angle" "180"
 "targetname" "vore_1"
 "_tb_layer" "3"
@@ -30170,7 +30170,7 @@
 // entity 493
 {
 "classname" "light"
-"origin" "368 -2168 16"
+"origin" "624 -2168 16"
 "light" "500"
 "delay" "1"
 "_tb_layer" "175"
@@ -30297,5 +30297,13 @@
 "light" "500"
 "delay" "1"
 "angle" "270"
+"_tb_layer" "175"
+}
+// entity 508
+{
+"classname" "light"
+"origin" "184 -2168 16"
+"light" "500"
+"delay" "1"
 "_tb_layer" "175"
 }
